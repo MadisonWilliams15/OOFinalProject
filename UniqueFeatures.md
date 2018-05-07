@@ -7,7 +7,7 @@
 
 **Optionals** LINK
 
-**Functional programming patterns.** LINK
+[**Functional programming patterns.**](FunctionalProgramming.md)
 
 **Generics**
 
@@ -48,7 +48,7 @@ println(status.name) // Prints "OK"
 
 **Null safety** LINK
 
-**Functional Programming** LINK
+[**Functional Programming**](FunctionalProgramming.md)
 
 **Inter-operable with java**
 
