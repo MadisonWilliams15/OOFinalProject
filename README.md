@@ -1,5 +1,5 @@
 # OOFinalProject
-#### A comparison of Swift and Kotlin
+#### A comparison of Swift and Kotlin By Madison Williams, Brian Lasker, and Brad Worthen
 1. [Language Purpose](https://github.com/MadisonWilliams15/OOFinalProject/blob/master/LanguagePurpose.md)
 2. [Unique features of the language](https://github.com/MadisonWilliams15/OOFinalProject/blob/master/UniqueFeatures.md)
 3. Name spaces
