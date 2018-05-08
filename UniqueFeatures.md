@@ -5,6 +5,8 @@
 
 [**Closures unified with function pointers**](https://github.com/MadisonWilliams15/OOFinalProject/blob/master/LambdaExpressions.md#swift)
 
+[**Null safety**](Null & nil References.md)
+
 [**Optionals**](https://github.com/bradworthen/OOFinalProject/blob/master/Null%20%26%20nil%20References.md#optional-chaining)
 
 [**Functional programming patterns.**](FunctionalProgramming.md)
