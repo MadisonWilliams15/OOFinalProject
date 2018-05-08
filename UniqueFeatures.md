@@ -3,9 +3,9 @@
 ### **Does the language have any particularly unique features?**
 * **Swift**
 
-**Closures unified with function pointers** LINK
+[**Closures unified with function pointers**](https://github.com/MadisonWilliams15/OOFinalProject/blob/master/LambdaExpressions.md#swift)
 
-**Optionals** LINK
+[**Optionals**](https://github.com/bradworthen/OOFinalProject/blob/master/Null%20%26%20nil%20References.md#optional-chaining)
 
 [**Functional programming patterns.**](FunctionalProgramming.md)
 
@@ -46,7 +46,7 @@ println(status.name) // Prints "OK"
 
 * **Kotlin** 
 
-**Null safety** LINK
+[**Null safety**](Null & nil References.md)
 
 [**Functional Programming**](FunctionalProgramming.md)
 
