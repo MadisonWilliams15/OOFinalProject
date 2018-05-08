@@ -2,22 +2,22 @@
 #### A comparison of Swift and Kotlin By Madison Williams, Brian Lasker, and Brad Worthen
 1. [Language Purpose](LanguagePurpose.md)
 2. [Unique Features of the Language](UniqueFeatures.md)
-
+3. [Name Spaces](Name Spaces.md)
 4. [Types](Types.md)
 5. [Classes](Classes.md)
 6. [Instance Reference Name in Data Type](InstanceReference.md)
 7. [Properties](Properties.md)
-
-
-
+8. [Interfaces/Protocols](Interfaces & Protocols.md)
+9. [Inheritance/Extension](Inheritance & Extension.md)
+10. [Reflection](Reflection.md)
 11. [Memory Management](MemoryManagement.md)
 12. [Comparisons of References and Values](Comparisons.md)
-
+13. [Null/nil References](Null & nil References.md)
 14. [Errors and Exception Handling](Errors.md)
 15. [Lambda Expressions, Closures or Functions as types](LambdaExpressions.md)
-
+16. [Implementation of Listeners and Event Handlers](Implementation of Listeners and Event Handlers.md)	
 17. [Singleton](Singleton.md)
-
+18. [Procedural Programming](Procedural Proramming.md)
 19. [Functional Programming](FunctionalProgramming.md)
 20. [Multithreading](Multithreading.md)
 
