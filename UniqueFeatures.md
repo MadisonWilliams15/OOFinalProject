@@ -5,7 +5,7 @@
 
 [**Closures unified with function pointers**](https://github.com/MadisonWilliams15/OOFinalProject/blob/master/LambdaExpressions.md#swift)
 
-[**Null safety**](Null & nil References.md)
+[**Null safety**](Null&nilReferences.md)
 
 [**Optionals**](https://github.com/bradworthen/OOFinalProject/blob/master/Null%20%26%20nil%20References.md#optional-chaining)
 
@@ -48,7 +48,7 @@ println(status.name) // Prints "OK"
 
 * **Kotlin** 
 
-[**Null safety**](Null & nil References.md)
+[**Null safety**](Null&nilReferences.md)
 
 [**Functional Programming**](FunctionalProgramming.md)
 
