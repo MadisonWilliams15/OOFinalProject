@@ -14,6 +14,10 @@
 * You can limit protocol adoption to class types (and not structures or enumerations) by adding the *AnyObject* or *class* protocol to a protocol’s inheritance list.
 ### Kotlin
 * Two or more interfaces can be implemented in the same class.
+* A class can implement as many interfaces as you want, but it can only extend a single class (similar to Java).
+* The override modifier is compulsory in Kotlin—unlike in Java. 
+* Along with methods, we can also declare properties in a Kotlin interface. 
+* A Kotlin interface method can have a default implementation (similar to Java 8). 
 
 ## How is it used?
 ### Swift
