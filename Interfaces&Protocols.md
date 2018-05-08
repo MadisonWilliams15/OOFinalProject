@@ -29,13 +29,48 @@ protocol SomeProtocol {
     // protocol definition goes here
 }
 ```
+
+A problem is to decide when to use a protocol to class inheritance. The best cheat to determine when to use a protocol compare to class inheritance is to know when the type of relationship that determine between your classes. Is it an IS-A relationship or a HAS-A.
+
+IS-A relationship is a type of relationship where a child will have every thing the parent has as well as have additional properties. A good example is an Airplane and a JetPlane. A JetPlane is basically an Airplane with additional properties / methods
+
+HAS-A relationship is a type of relationship where two classes are not the same but share similar properties / method. A good example is a Bird and an Airplane. A Bird can fly as well as an Airplane. This is the best time to use a protocol.
+```Swift
+protocol Flyable {
+  func fly() -> String
+}
+
+class Airplane: Flyable {
+  
+  func fly() -> String {
+    return ("Airplane can fly")
+  }
+  
+}
+
+class Bird: Flyable {
+  
+  func fly() -> String {
+    return ("Bird can fly too")
+  }
+  
+}
+```
 ### Kotlin
 Interfaces in Kotlin are very similar to Java 8. They can contain declarations of abstract methods, as well as method implementations. What makes them different from abstract classes is that interfaces cannot store state. They can have properties but these need to be abstract or to provide accessor implementations.
 ```Kotlin
 interface MyInterface {
-    fun bar()
+    val prop: Int // abstract
+
+    val propertyWithImplementation: String
+        get() = "foo"
+
     fun foo() {
-      // optional body
+        print(prop)
     }
+}
+
+class Child : MyInterface {
+    override val prop: Int = 29
 }
 ```
